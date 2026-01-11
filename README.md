@@ -21,21 +21,21 @@ This project demonstrates the implementation of a Library Management System usin
 
 '''sql
 
-Use Library
+USE Library
 
-select * from books
+SELECT * FROM books;
 
-select * from branch
+SELECT * FROM branch
 
-select * from branch_reports
+SELECT * FROM branch_reports
 
-select * from employees
+SELECT * FROM employees
 
-select * from issued_status
+SELECT * FROM issued_status
 
-select * from members
+SELECT * FROM members
 
-select * from return_status
+SELECT * FROM return_status
 
 -- Foreign Key
 
